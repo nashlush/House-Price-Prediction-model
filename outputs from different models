@@ -1,0 +1,13 @@
+1. Linear Regression:
+    mean: 4.974787791311547
+    standard_deviation: 0.9769937925062034
+
+2. Decision Tree Regressor:
+    mean: 5.022692697775748 
+    standard_deviation: 1.9678853365621978
+    
+3. Random Forest Regressor:
+    mean: 3.6618554750883696 
+    standard_deviation: 0.9627451709245249
+    we chose random forest regressor as it gives us the minimum mean squared error of all the models.
+    The test data gave us a root mean squared error of 2.7422254558989834
